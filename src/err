@@ -1,0 +1,1 @@
+gcc -Wall -Wextra -std=c99 main.c ray.c vec3.c objects.c -o main -lm
